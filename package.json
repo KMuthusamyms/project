@@ -14,6 +14,7 @@
   "license": "ISC",
   "description": "manhooder is basically for pulling external api for an web application",
   "dependencies": {
+    "googleapis": "^39.2.0",
     "index.js": "0.0.3"
   }
 }
